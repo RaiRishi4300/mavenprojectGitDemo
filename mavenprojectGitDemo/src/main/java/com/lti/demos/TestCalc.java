@@ -7,6 +7,7 @@ public class TestCalc {
 		Calculator c=new Calculator();
 		System.out.println(c.sayHello());
 		System.out.println(c.addNum(5, 10));
+		System.out.println("kuch naya");
 
 }
 }
